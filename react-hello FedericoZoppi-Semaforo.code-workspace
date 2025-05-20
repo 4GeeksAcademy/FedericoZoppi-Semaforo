@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+literate-enigma-4jvv79wwj4rrc7vx6/workspaces/react-hello"
+		}
+	],
+	"remoteAuthority": "codespaces+literate-enigma-4jvv79wwj4rrc7vx6",
+	"settings": {
+		"workbench.editorAssociations": {
+			"*.md": "vscode.markdown.preview.editor"
+		}
+	}
+}
